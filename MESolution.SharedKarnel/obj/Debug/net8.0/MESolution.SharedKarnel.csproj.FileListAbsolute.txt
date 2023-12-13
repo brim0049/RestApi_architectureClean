@@ -1,0 +1,12 @@
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.AssemblyInfoInputs.cache
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.AssemblyInfo.cs
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.csproj.CoreCompileInputs.cache
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\bin\Debug\net8.0\MESolution.SharedKarnel.deps.json
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\bin\Debug\net8.0\MESolution.SharedKarnel.dll
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\bin\Debug\net8.0\MESolution.SharedKarnel.pdb
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.dll
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\refint\MESolution.SharedKarnel.dll
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.pdb
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\ref\MESolution.SharedKarnel.dll
+C:\Users\Dell WorkStation\source\repos\MESolution\MESolution.SharedKarnel\obj\Debug\net8.0\MESolution.SharedKarnel.csproj.AssemblyReference.cache

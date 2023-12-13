@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4UCSmotc6N7B3ho6XBgrhPjaQclXgljXfhgjtXCKqRGw/w1pfIxMHjlQnAEv4pSol5l+7Z7v1HhRjv9i8LDgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell WorkStation\\source\\repos\\MESolution\\MESolution.SharedKarnel\\MESolution.SharedKarnel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell WorkStation\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.0\\microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dell WorkStation\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dell WorkStation\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

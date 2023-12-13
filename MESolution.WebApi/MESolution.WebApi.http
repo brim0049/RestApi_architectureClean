@@ -1,0 +1,6 @@
+@MESolution.WebApi_HostAddress = http://localhost:5140
+
+GET {{MESolution.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
